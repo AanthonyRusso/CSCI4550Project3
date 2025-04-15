@@ -1,7 +1,8 @@
 # Using Pantheon by StanfordSNR to Experiment with Different Congestion Control Schemes
 
 ## Setup
-# All of this must be done on a PC that has Linux or a Linux VM (WSL will not work)
+
+### All of this must be done on a PC that has Linux or a Linux VM (WSL will not work)
 
 http://mahimahi.mit.edu/
 First, download and install mahimahi. This will most likely have to be done through building it from the source code
