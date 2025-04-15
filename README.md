@@ -19,4 +19,5 @@ After this, run the shell script "pantheonSetup.sh". This will setup and create 
 ## Running the tests
 Then, run the shell script "schemesTesting.sh". This will run 3 schemes, cubic, vegas, and bbr, in both good and bad network conditions, and put the results in a folder (<scheme>Results for a good environment, <scheme>ResultsBad for a bad environment.
 
+### For analysis, make sure to also install latex
 Then, optionally, run the shell script "analyze.sh" to analyze the results and create a pdf report along with graphs
