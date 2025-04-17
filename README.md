@@ -3,7 +3,8 @@
 ## Setup
 
 ### All of this must be done on a PC that has Linux or a Linux VM (WSL will not work)
-
+### It is recommended to use Ubuntu 24.04.2, as that is what these tests were done on
+### Any errors with installing mahimahi are likely to be due to missing dependencies. Mahimahi will give an error saying what is missing.
 http://mahimahi.mit.edu/
 First, download and install mahimahi. This will most likely have to be done through building it from the source code
 
